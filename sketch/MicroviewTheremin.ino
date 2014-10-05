@@ -14,7 +14,7 @@
 // Set your own pins with these defines !
 #define TRIG_PIN   5    // Arduino pin for the Trigger
 #define ECHO_PIN   3    // Arduino pin for the Echo
-#define SPEAKER_PIN   0    // Arduino pin for buzzer
+#define SPEAKER_PIN   2    // Arduino pin for buzzer
 
 const int dist_min = 4;
 const int dist_max = 60;  // 34 
