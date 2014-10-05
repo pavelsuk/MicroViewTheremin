@@ -8,7 +8,8 @@ Simple project using MicroView as Arduino + Ultrasonic Distance Sensor HC-SR04
 
 ### Content
 - /sketch: code for MicroView. 
-  - [/sketch/MicroviewTheremin.ino](/sketch/MicroviewTheremin.ino) - First version, using code from Krodal/gweezer
+  - [/sketch/MicroviewTheremin.ino](/sketch/MicroviewTheremin.ino) - First version, using basic code 
+  - [/sketch/MicroviewTheremin_WithNewPingLib.ino](/sketch/MicroviewTheremin_WithNewPingLib.ino) - Version using [NewPing](https://code.google.com/p/arduino-new-ping/) and [NewTone](https://code.google.com/p/arduino-new-tone/) library
 - /doc: documentation, including schema in Fritzing. 
  
 ### Schema 
